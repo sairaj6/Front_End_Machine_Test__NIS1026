@@ -1,0 +1,36 @@
+.container{
+    position: relative;
+    top:20px;
+    width: 25%;
+    background-color: rgb(171, 189, 228);
+    margin: auto;
+    border: 4px black solid;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.from-item{
+    margin: 10px;
+    text-align: center;
+}
+
+.from-item>label{
+    font-style: italic;
+    margin-left: 10%;
+}
+
+.btn{
+    margin: 10px;
+    text-decoration: center;
+}
+
+
+
+.center{
+    border-radius: 100px;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+}
